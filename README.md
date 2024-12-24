@@ -31,5 +31,5 @@ This project contains a Python script that simulates basic malware(Ransomware) f
 ### Steps
 1. Clone the repository:
    ```bash
-   git clone https://github.com/YourUsername/Ransomware.git
+   git clone https://github.com/Muhd-Abubakar/Ransomware.git
    cd Ransomware
